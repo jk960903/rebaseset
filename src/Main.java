@@ -20,5 +20,9 @@ public class Main {
 
         int num3 = 1;
 
+        int num4 = 2;
+
+        qwerqeta
+
     }
 }
