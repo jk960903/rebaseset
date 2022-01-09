@@ -37,6 +37,8 @@ public class Main {
         int issue1 = 1000;
 
 
-        String feature1 = "111master";
+        String feature1 = "111234";
+
+        String rebasemaster="1234";
     }
 }
