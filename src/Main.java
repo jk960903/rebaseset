@@ -39,8 +39,8 @@ public class Main {
 
         String feature1 = "111234";
 
+        String rebase1 = "1234swqwer";
         String rebasemaster="1234";
 
-        String rebase1 = "1234";
     }
 }
