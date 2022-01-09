@@ -28,6 +28,8 @@ public class Main {
 
         int reabase = 2 ;
 
+        String temp = "rebase";
+
         int master2 = 1;
     }
 }
