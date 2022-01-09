@@ -24,6 +24,9 @@ public class Main {
 
         int rebase =1 ;
 
+        int reabse = 2;
+
+
 
     }
 }
