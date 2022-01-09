@@ -34,7 +34,7 @@ public class Main {
 
         int masterconflict = 1;
 
-        int issue1 = 100;
+        int issue1 = 1000;
 
     }
 }
