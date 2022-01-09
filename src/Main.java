@@ -14,5 +14,9 @@ public class Main {
 
         System.out.println("issue2 branch");
 
+        int num =1;
+
+        int num2 = 1;
+
     }
 }
