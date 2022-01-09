@@ -18,5 +18,7 @@ public class Main {
 
         int num2 = 1;
 
+        int num3 = 1;
+
     }
 }
