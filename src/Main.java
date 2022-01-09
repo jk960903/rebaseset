@@ -28,6 +28,6 @@ public class Main {
 
         int reabase = 3 ;
 
-
+        int master2 = 1;
     }
 }
