@@ -31,5 +31,7 @@ public class Main {
         String temp = "rebase";
 
         int master2 = 1;
+
+        int masterconflict = 1;
     }
 }
