@@ -22,7 +22,8 @@ public class Main {
 
         int num4 = 2;
 
-        qwerqeta
+        int rebase =1 ;
+
 
     }
 }
