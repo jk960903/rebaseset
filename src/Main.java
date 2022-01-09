@@ -26,7 +26,7 @@ public class Main {
 
         int reabse = 2;
 
-        int reabase = 3 ;
+        int reabase = 2 ;
 
         int master2 = 1;
     }
