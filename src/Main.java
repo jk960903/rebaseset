@@ -8,5 +8,8 @@ public class Main {
 
         System.out.println("issue4");
         System.out.println("second master");
+
+        System.out.println("second issue1");
+        System.out.println("second issue2");
     }
 }
