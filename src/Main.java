@@ -33,5 +33,7 @@ public class Main {
         int master2 = 1;
 
         int masterconflict = 1;
+
+        int issue1 = 100;
     }
 }
