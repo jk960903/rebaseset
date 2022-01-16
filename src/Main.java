@@ -43,5 +43,7 @@ public class Main {
         String rebasemaster="1234";
 
         int hello1 = 0;
+
+        int master1 = 0;
     }
 }
