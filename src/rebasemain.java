@@ -1,4 +1,4 @@
 public class rebasemain {
 
-    int master = 0;
+    int master = 1;
 }
