@@ -44,6 +44,6 @@ public class Main {
 
         int hello1 = 0;
 
-        int master1 = 0;
+        int master1 = 1;
     }
 }
