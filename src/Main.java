@@ -42,5 +42,6 @@ public class Main {
         String rebase1 = "1234swqwer";
         String rebasemaster="1234";
 
+        int hello1 = 0;
     }
 }
