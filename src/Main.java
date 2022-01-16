@@ -45,7 +45,7 @@ public class Main {
         int hello1 = 0;
 
         int issue2 = 1;
-        int issue = 0;
+        int issue = 2;
 
         int master1 = 2;
     }
